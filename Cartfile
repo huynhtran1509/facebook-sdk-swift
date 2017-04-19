@@ -1,1 +1,2 @@
-github "facebook/facebook-ios-sdk" ~> 4.16
+#github "facebook/facebook-ios-sdk" ~> 4.16
+github "adomanico/facebook-ios-sdk" "xcode8.3"
